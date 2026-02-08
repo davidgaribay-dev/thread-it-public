@@ -4,6 +4,14 @@ A word-chain puzzle game built with Next.js 16. Build bridges between words by f
 
 **Live:** [threadit.davidgaribay.dev](https://threadit.davidgaribay.dev)
 
+<p align="center">
+  <img src="media/how-to.jpg" alt="How to Play" width="250">
+  &nbsp;&nbsp;
+  <img src="media/level-15.jpg" alt="Gameplay — Level 15" width="250">
+  &nbsp;&nbsp;
+  <img src="media/hint.jpg" alt="Hint system" width="250">
+</p>
+
 ---
 
 ## How It Works
